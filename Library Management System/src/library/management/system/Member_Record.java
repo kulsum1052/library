@@ -102,6 +102,7 @@ public class Member_Record {
     {
         System.out.println("Member Name:"+ this.name+"\nMember ID:"+ this.member_ID+"\nQuantity:"+ this.no_book_issued+"\nIssued Date:"+this.date_of_bookIssued);
     }
+    //Member_Record requesting access from class Book
   
  }
 
