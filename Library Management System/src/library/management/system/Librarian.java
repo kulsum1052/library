@@ -51,7 +51,7 @@ public class Librarian extends Person{
     {
        System.out.println("Librarian's Name:"+ this.getname() );
     }
-    //Liberian issues Book from class Book
+    //Librarian issues book from class Book
     
 
 
